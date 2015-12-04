@@ -5,3 +5,11 @@
 .classpath
 .project
 .DS_Store
+
+# Extra IntelliJ Idea files
+.idea/
+/.idea/
+.iml
+
+# Sensitive Data Files
+application.properties
